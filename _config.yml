@@ -1,0 +1,28 @@
+name: BBA SCIENCE CLUB
+favicon: null
+layout_spectrum: 0.8372641941532493
+typography_spectrum: 0.6528405724093318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7918557415250689
+  lightness: 0.32270744792185724
+  saturation: 0.3703274135477841
+  rhythmicContrast: 0.878178225364536
+purpose: []
