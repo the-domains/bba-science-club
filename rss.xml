@@ -2,15 +2,17 @@
     <channel>
         <title><![CDATA[BBA SCIENCE CLUB]]></title>
         <description><![CDATA[BBA SCIENCE CLUB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bba-science-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 06:36:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 06:41:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bba-science-club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined3228c2cf-2671-40f8-95c5-2213feb51dda/index.html</link>
+            <title><![CDATA[About BBA Science Club]]></title>
+            <description><![CDATA[<article><h1>About BBA Science Club</h1><p>Founded by Xia Haoyuan and He Lewei, STRDAO became one of the first clubs that was founded in Big Bridge Academy. STRDAO, once known as Science and Technology Research, Development,
+and Application, Organization, changed its name to Big Bridge Science Club in 2015. Known for its small size, profound history, and organizational integrity, it works on ideas on the very frontier of scientific inquisition. We had projects of model rocketry, experimental study of chemistry and physics, and iOS app development, 3D Printing, drones, etc. We have multiple approaches of communication, such as e-mail, WeChat public account, twitter, and more in the future. Our influence on the school and students are prevalent and innovating.Haoyuan Xia (Kevin Hisa) is the founder and former president (2012-2015) of the Science Club. During his presidency, he was responsible for supervising all the club's technological productions, including model rocketry, 3D printing, and software development. By the mid-2015, he retired from the club and appointed Bill Tan as the next president, who will continue the legend and start a new chapter.</p></article>]]></description>
+            <link>https://thegrid.ai/bba-science-club/3228c2cf-2671-40f8-95c5-2213feb51dda/index.html</link>
             <guid isPermaLink="false">3228c2cf-2671-40f8-95c5-2213feb51dda</guid>
-            <pubDate>Mon, 14 Mar 2016 06:36:06 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 06:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
